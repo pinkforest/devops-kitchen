@@ -1,0 +1,435 @@
+Hello everyone,
+
+Welcome to Miss M's DevOps Kitchen
+
+I hope everyone likes to Cook?
+
+Because you might
+
+  Be already using Containers
+
+    And Orchestration
+
+      In your everyday Cooking.
+
+Like have you ever used canned food?
+
+  Or put leftovers into a container
+
+   That you eat later.
+
+We could also think
+
+ Of the cooked - Or orchestrated
+
+  Meal as an app ..
+
+That you could create
+
+  But not just for yourself
+
+    But maybe for the whole world to enjoy.
+
+ This requires a form of a repetable recipe
+
+  That works in all kinds of situations
+
+    So that anyone can make it
+
+      Without having to teach
+
+        Everyone separately how to do it.
+
+Be it either in the end
+
+  Consumed by yourself alone
+
+    Or a remote village of strangers with pitchforks
+
+      .. that particularly like garlic.
+
+When we make our components of the meal re-usable
+
+  We could then more easily create a whole book of recipes
+
+    When we didn't have to repeat ourselves too much.
+
+Like when I make my spaghetti bolognese
+
+  a.k.a. spagbol
+
+    I need tomatoes, onions, garlic, mince, spaghetti
+
+      And lots of chilli because that's *MY* spagbol.
+
+All of these ingredients provider something to the meal
+
+  And thats what I call functionality.
+
+Some either like chili or don't - do you? 
+
+So for this reason
+
+  You might want some flexibility in your recipes too.
+
+Just like in a computer application - or the app -
+
+  It's been typically divided into elements
+
+    Based on what each element provides
+
+      Just like all of the ingredients in food do.
+
+Now I don't think anyone
+
+  Expects food to just magically make itself?
+
+Like - when you bring those groceries home
+
+  You don't just throw them onto the floor
+
+    And wait for a tree perhaps to grow off that mess?
+
+I mean.
+
+The dog might have eaten it long before then.
+
+This is why we use recipes
+
+  To communicate for both ourselves and others on
+
+    How we put it all together
+ 
+      And to make it again and again 
+
+       With more consistent repeatable results.
+
+Like the tomatoes -
+
+  Is a component - or an element - on my spagbol
+
+    That provides the acidity and so on to the meal.
+
+We also tend to make our recipes situational.
+
+After a busy day while being hangry.
+
+  I just wnat to make it fast.
+
+And for this reason,
+
+I typically buy the canned tomatoes
+
+  Without any trade-offs on taste,
+
+    added sodium among other things
+
+      That the canned stuff often can have.
+
+You can also buy those canned tomatoes in various forms
+
+  Either whole, crushed, pureed, diced and so on.
+
+I just buy the crushed kind
+
+  Because I just like it all crushed!
+
+I simply take it all out from their canned container
+
+  And stuff it straight into my dutch oven
+
+    To wait for the other elements join the fun.
+
+Thats what a container essentially is.
+
+  It's the contained definition of a shopping list of ingredients
+
+    And what's done to those ingredients.
+
+Before all of it - stuffed - or contained - in a can.
+
+Just like what a can of tomatoes is
+
+  And what's done to it
+
+    crushed, diced, pureed and so on 
+
+      Designed to contribute that acidic base taste of the meal.
+
+That can of tomatoes.
+
+Is just another container we already perhaps use.
+
+That I can swap around my recipe easily
+
+  Be it crushed, diced or pureed -
+
+    Or use them all in combination.
+
+They all provide similar function
+
+  But in diffeerent forms.
+
+But someone had to create that container
+
+  Or that can of tomatoes. 
+
+A lot of things happened
+
+  To get to the final contained product
+
+    Of a can of tomatoes.
+
+They had to grow the right kind of tomatoes,
+
+ harvest them at the right time,
+
+  process, quality control,
+
+   measure the pH for preservation
+ 
+    .. and so on 
+
+     .. before stuffing that all 
+
+      Into that can of tomatoes.
+
+Container definition includes all that
+
+  So it's repeatable, easily maintained
+
+    And consumed as a predictable consistent unit
+
+Otherwise.
+
+  We might end up with inconsistency.
+
+Like if we can our tomatoes ourselves
+
+  We might end up harvesting the unripe tomatoes
+
+Neither you would want
+
+  Everything mixed into a single container - or a can
+
+    Unless you prefer that overly processed
+
+     pasta sauce kind of thing
+
+With inferior taste and lots of preservatives like sodium
+
+  That is neither versatile for many recipes.
+
+And since you now have this awesome
+
+  Contained definition
+
+   - or a benchmark -
+
+    For .. " What Do Great Tomatoes " Look like?
+
+You can now also re-use it
+
+  In your other recipes!
+
+I could even just spin up
+
+  Some awesome canned tomatoes
+
+    And eat them as-is!
+
+      Bon Appétit!
+
+But to put the whole meal together
+
+  We need to orchestrate it together.
+
+With all the other contained elements
+
+ Including our previously canned tomatoes.
+
+Now for me to orchestrate
+
+ My whole meal
+
+   From those contained elements.
+
+First I need to figure who I am feeding to?
+
+ Is it just for myself
+
+  Or perhaps for a date too?
+
+   Or.. perhaps a family of three
+
+    If my date earlier perhaps
+
+     Really liked my spicy spagbol?
+
+       Now that's some Mon amour!
+
+But then what about all that equipment - or infrastructure
+
+Like the size of the pans and pots
+
+  To ensure I am caramelizing and not steaming my onions.
+
+My cloud provider might be the gas stove or induction kind
+
+  Or a hybrid combination of those
+
+    Depending on our tastes .. and wallets.
+
+Then finally when orchestrating it for myself
+
+ I might subconsciously start by browning some onions.
+
+  Add some mince into the searing mix.
+
+   Boil some spaghetti
+
+    And throw that all in random order
+
+     Into my dutch oven to bubble a bit.
+
+But to share these recipes among each other us
+
+ And make them consistently repeatable
+
+  For both ourselves and others.
+
+   Our recipes need to be flexible enough
+
+    To scale up to that hangry village of people
+
+     Waving their pitchforks.
+
+For this reason.
+
+Your recipe might say per person
+
+ 200 grams of tomatoes
+
+  Or for a unicorn like me
+
+   600 grams of tomatoes.
+
+And to define how big of a pan or pot you use
+
+ To steam, sear or caramelize
+
+  For each element
+
+   Or contained component of the meal.
+
+In these great flexible recipes
+
+ We divide the recipe into contained units
+
+  To make our overall orchestrated meals.
+
+That are repeatable in many settings and scales
+
+  With pitchforks involved - or not.
+
+Best thing orchestrating with chili containers is that.
+
+You can just destroy some of them away from the spagbol
+
+ If your date didn't like all that chili you threw in
+
+And if they do like it hot
+
+ You could just orchestrate more of chili containers.
+
+Or if they keep changing their mind
+
+ You can just orchestrate couple first
+
+  And then destroy few
+
+    And then put them all back!
+
+Without it all going cold
+
+ And having to remake the whole meal!
+
+Now how hot and cool is that? 
+
+Just too bad that
+
+  It doesn't take that garlic breath away
+
+    Consumed from the yesterday.
+
+And has anyone tested
+
+  Spaghetti pineapple bolognese yet?
+
+You could just orchestrate your bolognese
+
+  With a pineapple container and test it out!
+
+Yum!
+
+You could also
+
+  Bring a virtual machine
+
+    Of a pineapple to it.
+
+But it's never the same!
+
+As the spagbol will be cold
+
+  When the pineapple VM finally arrives.
+
+You see
+
+ With containers
+
+  You can run many brains
+
+   Within a brain.
+
+And with virtual machines
+
+ You need to run many heads
+
+  For all those brains.
+
+Whilst it would be nice
+
+  To have many heads.
+
+I would prefer
+
+  To just have more brains
+
+    Without the overheads.
+
+So again.
+
+a container
+
+  Is both the ingredients
+
+    And what was done within
+
+      To fit the overall recipe.
+
+And orchestration
+
+ Makes those contained elements
+
+  Work with each other
+
+   Facilitated by given infrastructure
+
+    For the benefit of the consumers
+
+     Of the overall product.       
+
+p.s. I love pineapple in my spagbol.
+
+.... Do you? 
